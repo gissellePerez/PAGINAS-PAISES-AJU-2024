@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>COLOMBIA</title>   
+    <style>
+        .imagen {
+            display: none; /* Oculta la imagen por defecto */
+            width: 100px; /* Ancho de la imagen */
+            height: 300px; /* Altura para mantener la proporción */
+         }
+    </style>
+</head>
+<body>
+    <div>
+        <button onclick="mostrarContenido('pestaña1')">IDENTIFICACIÓN DEL PAÍS</button>
+        <button onclick="mostrarContenido('pestaña2')">CARACTERÍSTICAS GENERALES DEL PAÍS</button>
+        <button onclick="mostrarContenido('pestaña3')">TURISMO EN EL PAÍS</button>
+ 	<button onclick="mostrarContenido('pestaña4')">ABSTRACT</button>
+    </div>
+<img src="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE\COLOMBIA.PNG"  alt="BANDERA DE COLOMBIA"> 
+
+    <div id="pestaña1">
+        <h1 style="font-family: Calibri; font-size: 80px;">COLOMBIA PAÍS DE LA BIODIVERSIDAD</h1>
+        <img src="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE\BANDERA.JPG"  alt="BANDERA DE COLOMBIA"> 
+        <div style="background-color: #f0f0f0;"> 
+            <h2 style="color: red;">CAPITAL</h2>
+            <p>La capital de Colombia queda ubicada en el centro del país y se le conoce como:</p>
+            <ul>
+                <li>Bogotá</li>
+                <li>Santa fe de bogotá</li>
+                <li>Atenea suramericana</li>
+            </ul>
+        </div>
+
+        <div style="background-color: #3498DB;"> 
+            <h3 style="color: blue;">PRESIDENTE ACTUAL</h3>
+            <p style="font-family: Arial; font-size: 18px;">El presidente durante el periodo 2022-2026 es Gustavo Petro.</p>
+        </div>
+    
+        <div style="background-color: #E8DAEF;"> 
+            <h4 style="color: green;">LÍMITES DE COLOMBIA</h4>
+            <p style="font-family: Times New Roman; font-size: 16px;">Colombia presenta los siguientes límites:</p>
+            <ul>
+                <li>Al este con Venezuela y Brasil</li>
+                <li>Al sur con Perú y Ecuador</li>
+                <li>Al noroeste con Panamá</li>
+            </ul>
+            <p>En cuanto a límites marítimos:</p>
+            <ul>
+                <li>Por el Mar Caribe se encuentran: Panamá, Costa Rica, Nicaragua, Honduras, Jamaica, Haití, República Dominicana y Venezuela</li>
+                <li>Por el Océano Pacífico se encuentran: Panamá, Costa Rica y Ecuador.</li>
+            </ul>
+            <img src="C:\Users\DOCENTE\Documents\COLOMBIA GISSELLE\LIMITES.PNG" alt="LÍMITES DE COLOMBIA">
+        </div>
+    </div>
+    <div id="pestaña2">
+        <div style="background-color: #E8DAEF;">
+            <h4 style="color: green;">PRINCIPALES ACTIVIDADES ECONÓMICAS</h4>
+            <p>Las principales actividades económicas de Colombia incluyen:</p>
+            <ul>
+                <li>Agricultura: Colombia es conocida por su producción de café, plátanos, flores, cacao y otros productos agrícolas. La agricultura es una parte importante de la economía colombiana y proporciona empleo a un gran número de personas</li>
+                <li>Minería : Colombia es rica en recursos minerales como carbón, oro, plata, níquel y esmeraldas. La minería es una actividad económica importante en algunas regiones del país.</li>
+                <li>Petróleo y Gas Colombia es un productor significativo de petróleo y gas natural. La extracción y exportación de petróleo y gas son vitales para la economía colombiana, aunque la caída de los precios internacionales del petróleo ha afectado en cierta medida este sector en los últimos años.</li>
+                <li>Manufactura: La industria manufacturera en Colombia abarca una amplia gama de sectores, incluyendo textiles, productos químicos, alimentos procesados, productos farmacéuticos, y productos electrónicos, entre otros.</li>
+                <li>Turismo:Colombia cuenta con una gran variedad de atracciones turísticas, que van desde sus playas en el Caribe y el Pacífico, hasta sus ciudades históricas como Cartagena y Bogotá, y su rica biodiversidad en la Amazonía y la región Andina. El turismo es una industria en crecimiento en el país.</li>
+                <li>Servicios: Los servicios, que incluyen sectores como la banca, el comercio, las telecomunicaciones, la salud y la educación, desempeñan un papel importante en la economía colombiana. Bogotá, la capital, es un importante centro financiero y de servicios en América Latina.</li>
+            </ul>
+        </div>
+        <div style="background-color: #9E9E1E;">
+            <h4 style="color: green;">CARACTERÍSTICAS DE LA POBLACIÓN</h4>
+           
+<P> Colombia actualmente cuenta con 52,768,417 habitantes. De estos, 25,953,426 son hombres (49.2%) y 26,814,991 son mujeres (50.8%) </p>
+ <p>Las principales características de la población colombiana incluyen:</p>
+            <ul>
+                <li>Diversidad étnica y cultural: Colombia es un país muy diverso étnica y culturalmente, con una población que incluye descendientes de indígenas, africanos, europeos y mestizos. </li>
+
+<li>Crecimiento demográfico: Colombia tiene una tasa de crecimiento demográfico moderada en comparación con otros países de América Latina. Sin embargo, en las últimas décadas se ha observado una disminución en la tasa de natalidad y un envejecimiento de la población.</li>
+
+<li>Urbanización: La mayoría de la población colombiana reside en áreas urbanas, con ciudades como Bogotá, Medellín, Cali y Barranquilla que concentran gran parte de la población y son centros económicos y culturales importantes.</li>
+
+<li>Desigualdad socioeconómica: A pesar de los esfuerzos por reducir la pobreza y la desigualdad, Colombia sigue siendo un país con marcadas disparidades socioeconómicas. Existe una brecha significativa entre ricos y pobres, así como desigualdades regionales en términos de acceso a la educación, la salud y otros servicios básicos.</li>
+
+<li>Movimientos migratorios: Colombia ha experimentado movimientos migratorios internos y externos significativos en las últimas décadas. La violencia, el conflicto armado y la búsqueda de mejores oportunidades económicas han llevado a muchas personas a desplazarse dentro del país o a emigrar al extranjero, aunque en los últimos años se ha observado una disminución en la emigración debido a la mejora de la situación de seguridad y económica.</li>
+
+<li>Evolución demográfica: Colombia está experimentando cambios en su estructura demográfica debido al aumento de la esperanza de vida y la disminución de la tasa de fertilidad. Esto está generando un envejecimiento de la población y plantea desafíos en términos de seguridad social y atención médica para las personas mayores.</li> </p>
+
+            </ul>
+       </div style>
+ <div style="background-color: #83F7E2;">
+            <h4 style="color:YELLOW;">CULTURA</h4>
+<p>La cultura en Colombia es muy diversa y rica, reflejando la mezcla de influencias indígenas, africanas y europeas a lo largo de su historia. Aquí hay algunos aspectos destacados de la cultura colombiana:</p>
+ <ul>
+
+<li> Artes y Literatura: Colombia tiene una rica tradición literaria que abarca desde la poesía y la narrativa hasta el teatro y el ensayo. Autores como Gabriel García Márquez, Premio Nobel de Literatura en 1982, han dejado una marca indeleble en la literatura mundial con obras como "Cien años de soledad". En las artes visuales, Colombia cuenta con una escena artística vibrante y variada, con artistas como Fernando Botero, conocido por su estilo distintivo de figuras redondas y exuberantes.</li>
+
+<li>Música y Baile: La música desempeña un papel central en la cultura colombiana. Desde la cumbia y el vallenato en la costa caribeña, hasta la salsa y el currulao en la región pacífica, pasando por el joropo en los llanos orientales y el bambuco en la región andina, Colombia ofrece una amplia variedad de estilos musicales. El baile también es una parte importante de la cultura colombiana, con danzas tradicionales como el bambuco y la cumbia, el mapale, así como la salsa y el reggaetón, que son populares en todo el país.</li>
+
+<li>Gastronomía: La cocina colombiana es variada y deliciosa, con platos típicos que varían según la región. Algunos platos emblemáticos incluyen la bandeja paisa, el ajiaco, la arepa, el sancocho y el lechona. La diversidad geográfica del país también se refleja en su gastronomía, con ingredientes y técnicas culinarias únicas en cada región.</li>
+
+<li>Fiestas y Celebraciones: Colombia es conocida por sus festivales y celebraciones coloridas y animadas. El Carnaval de Barranquilla es uno de los más grandes y reconocidos del mundo, mientras que el Festival de la Leyenda Vallenata en Valledupar celebra la música vallenato. Otras festividades importantes incluyen la Feria de las Flores en Medellín, el Festival de Teatro de Bogotá y la Fiesta del Mar en Santa Marta.</li>
+
+<li>Patrimonio Cultural: Colombia cuenta con una gran cantidad de sitios culturales y naturales reconocidos por la UNESCO como Patrimonio de la Humanidad. Estos incluyen la ciudad amurallada de Cartagena, el Parque Nacional Natural Tayrona, el Parque Arqueológico de San Agustín y el Parque Nacional Natural de Los Katíos, entre otros. <li></ul>
+</div style>
+    </div>
+
+    <div id="pestaña3">
+        <div style="background-color: #F783E3;">
+            <h4 style="color: RED;">TURISMO</h4>
+            <p>Los toures o viajes que nadie se puede perder en Colombia son:</p>
+<table border="1">
+  <tr>
+    <th></th>
+    <th>TOUR 1</th>
+    <th>TOUR 2</th>
+    <th>TOUR 3</th>
+<th>TOUR 4</th>
+<th>TOUR 5</th>
+  </tr>
+  <tr>
+    <td>LUGAR</td>
+    <td>PARQUE NACIONAL NATURAL TAYRONA</td>
+    <td>VALLE DEL COCORA </td>
+<td>CÁTEDRA DE SAL DE ZIPAQUIRA </td>
+<td>PARQUE NACIONAL NATURAL DE LOS NEVADOS </td>
+<td>ISLA DE SAN ÁNDRES </td>
+  </tr>
+  <tr>
+    <td>UBICACIÓN</td>
+    <td>Departamento de Magdalena- Costa Caribe</td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+  <tr>
+    <td>ACTIVIDADES PARA HACER</td>
+    <td><li>Senderismo por la selva</li><li> Natación en las playas de arenas blancas</li><li> Snorkel en arrecifes de coral</li><li> Observación de vida silvestre</li></td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+<tr>
+<tr>
+    <td>FOTOS</td>
+    <td></td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+
+    <td>COSTOS DE VISITA</td>
+    <td>El ingreso al parque tiene un costo de: <li>Alrededor de $53550 o $15 Dólares para extranjeros</li><li> Para nacionales $23.500 o $6,5 Dólares</li> Esto puede variar según temporada y aumentar sí ingresa con vehículo. Recuerde que es el horario continuo de 7 AM a 6 PM </td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+<tr>
+    <td>MEDIOS DE TRANSPORTE</td>
+    <td></td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+<tr>
+    <td>COSTO TOTAL</td>
+    <td></td>
+    <td></td>
+<td></td>
+<td></td>
+<td></td>
+  </tr>
+
+</table>
+        </div>
+    </div>
+<div id="pestaña4">
+	<h4 style="color: RED;">ABSTRACT</h4>
+	<P> This country is the first in southamerica, Colombia have two oceans, this country is very beautifil …….</p>
+</div>
+
+     < --!-- Script para mostrar y ocultar las pestañas -->
+    <script>
+        // Oculta todo el contenido de las pestañas al cargar la página
+        window.onload = function() {
+            var contenidos = document.querySelectorAll('div[id^="pestaña"]');
+            for (var i = 0; i < contenidos.length; i++) {
+                contenidos[i].style.display = 'none';
+            }
+            // Muestra la imagen solo en la primera pestaña
+            document.querySelector('.imagen').style.display = 'block';
+        };
+
+        function mostrarContenido(id) {
+            // Oculta todos los elementos con la clase "contenido"
+            var contenidos = document.querySelectorAll('div[id^="pestaña"]');
+            for (var i = 0; i < contenidos.length; i++) {
+                contenidos[i].style.display = 'none';
+            }
+            // Muestra el contenido de la pestaña seleccionada
+            var contenidoSeleccionado = document.getElementById(id);
+            contenidoSeleccionado.style.display = 'block';
+            // Oculta la imagen en las otras pestañas
+            document.querySelector('.imagen').style.display = 'none';
+        }
+    </script>
+  <footer>
+        <p>PAGINA REALIZADA POR GISSELLE XIMENA PÉREZ ACOSTA.<BR>
+COLEGIO ANTONIO JOSÉ URIBE- 2024</p>
+    </footer>
+</body>
+</html>
